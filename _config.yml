@@ -38,16 +38,17 @@ avatar: "/img/avatar_icon.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+navbar-col: "#1B1B1B"
+navbar-text-col: "#1C82B3"
+navbar-children-col: "#181818"
+page-col: "#373737"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-
+footer-col: "#1B1B1B"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#39688F"
+title-col: "#D5D5D5"
+subtitle-col: "#B4B4B4"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
@@ -68,7 +69,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "ritwikkadu.iitb@gmail.com"
   facebook: https://m.facebook.com/ritwik.kadu
   github: https://github.com/rsk2111999
   twitter: https://twitter.com/KaduRitwik
@@ -87,13 +88,12 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: https://twitter.com/KaduRitwik
-  facebook: https://m.facebook.com/ritwik.kadu
-  linkedin: https://www.linkedin.com/in/ritwikkadu/
-
+  twitter: true
+  facebook: true
+  linkedin: true
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://rsk2111999.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
