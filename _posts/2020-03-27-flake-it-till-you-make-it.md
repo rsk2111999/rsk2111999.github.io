@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
+title: Day 3
+subtitle: Social Media
+bigimg: /img/social_media Cropped.jpg
 tags: [books, test]
 ---
 
