@@ -2,8 +2,8 @@
 layout: post
 title: Day 3
 subtitle: Social Media
-image: /img/IMG-20190512-WA0001 Cropped (1).jpg
-bigimg: /img/social_media Cropped.jpg
+image: /img/social_media Cropped.jpg
+bigimg: /img/socialmedia.jpg
 tags: [books, test]
 date: 2020-03-27 02:51:00 +05:30
 ---
