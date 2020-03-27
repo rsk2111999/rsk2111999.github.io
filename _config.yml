@@ -24,7 +24,7 @@ navbar-links:
     - Jnana Prabodhini: "https://www.prashala.jnanaprabodhini.org/"
     - M Prakash Academy: "http://mprakashinstitute.com/"
     - IIT Bombay: "http://www.iitb.ac.in/"
-  Author's home: "www.facebook.com/ritwik.kadu"
+  Author's home: "facebook.com/ritwik.kadu"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -70,15 +70,15 @@ author:
 social-network-links:
   rss: true
   email: "ritwikkadu.iitb@gmail.com"
-  facebook: facebook.com/ritwik.kadu
-  github: github.com/rsk2111999
-  twitter: twitter.com/KaduRitwik
+  facebook: ritwik.kadu
+  github: rsk2111999
+  twitter: KaduRitwik
 #  reddit: yourname
-  linkedin: www.linkedin.com/in/ritwikkadu/
+  linkedin: ritwikkadu/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: www.instagram.com/ritwikkadu/
+  instagram: ritwikkadu/
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
