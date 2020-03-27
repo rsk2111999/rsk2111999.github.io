@@ -1,8 +1,8 @@
 ---
 layout: post
 title: First post! 
-image: /img/hello_world.jpeg
-image: /img/DirectorMail.jpg
+
+image: /img/covid-19.jpg
 date:  2020-03-25 11:51:00 +05:30
 ---
 
