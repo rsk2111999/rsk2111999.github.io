@@ -3,14 +3,8 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
+Hi! I’m Aditya Iyengar and this is my personal webpage. I would like to maintain this webpage for the compilation of my academic work.
 
-My name is Ritwik Kadu. I have the following qualities:
+I am a second year undergraduate student at IIT Bombay majoring in Mechanical Engineering. 
+You can view a verified version of my curriculum vitae [here]https://drive.google.com/open?id=14ms2SdLdhVc8b67IMukIbt7z8ThS-LMd
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://drive.google.com/open?id=14ms2SdLdhVc8b67IMukIbt7z8ThS-LMd) and it will answer **all** your questions.
