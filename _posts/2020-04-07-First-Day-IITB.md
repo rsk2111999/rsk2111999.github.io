@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First post! 
+title: First Day At IITB 
 
-image: /img/covid-19.jpg
+image: /img/FirstDay.jpg
 date:  2020-04-07 11:51:00 +05:30
 ---
 
