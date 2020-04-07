@@ -2,7 +2,8 @@
 layout: post
 title: First Day At IITB 
 
-image: /img/FirstDay.jpg
+image: /img/FirstDay Cropped.jpg
+bigimg: /img/Library.jpg
 date:  2020-04-07 11:51:00 +05:30
 ---
 
