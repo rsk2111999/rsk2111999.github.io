@@ -8,13 +8,13 @@ date:  2020-04-07 11:51:00 +05:30
 ---
 
 This is a blog written by my good friend Gagan Jain.
-Heres the link to his blog:- https://thesmilingsky.github.io/
+Heres the link to his blog:- [TheSmilingSky](https://thesmilingsky.github.io/blog/blog)
 I havent written this ; but somehow all of it is so relatable and almost feels like my own story.
 So give it a read, chances are if youre within AIR 500-1000 you will relate more to this.
 
 Hey everyone! Welcome to my first blog post. I do not even know since when was I wishing to have a blog page. I constantly kept writing but all of that was restricted to my Moto E3’s ColorNote. But, now I will start publishing my writings here whenever I feel like doing so. With no further discussions, here’s the post I wrote on the day I had my first class at IIT Bombay. Since I started writing properly after I reached here, this is a long one. You have been warned!
 
-22:37 hrs, July 25th, 2018
+#### 22:37 hrs, July 25th, 2018
 So, today was my first day at IIT Bombay! A plethora of emotions going through my mind right now. I clearly remember the day when I planned that I wanted to go to Kota for JEE preparation. The enthusiasm, the spark, the confidence; I remember all of it. Soon, I was staying up till 2 in the night and preparing for my periodic tests. Two years of struggle, everything for 6 hours of an examination. The clock struck five and I was out of the examination hall, with an anxious and quiet look on my face. Before my dad could ask anything, I murmured “Don’t ask questions” and went back to my silent mode. Now when I think of that moment, I feel I acted like Aunt Petunia for a split sec. After a few days of silence in the house, I finally logged in to jeeadv.ac.in and announced in the house “AIR 572”. My mom and sisters had appreciating expressions on their faces, but my dad had a mix of appreciation and disappointment on his face. I myself did not feel anything about it, neither great nor sad, because I did not set a target rank while preparing (I consider this a big mistake), so I felt whatever I got was acceptable. But I was clear on one thing, I could have done better.
 
 Soon, my home had turned into a court with my father and sister discussing (rather arguing) about college and branch options, and obviously I had no clue about any of it. I was silently scrolling through various sites, taking reviews from people, trying to figure out whether I am interested in doing this or that and whatnot. My father strongly supported that I should take CSE in the best college which I could get with my rank. My sister, on the other hand, had the opinion that college and location also equally mattered and I should not end up in a place that will not allow me to grow and develop. To me, my sister made more sense logically. Most of the reviews, though, were in favor of taking CSE in some college. I was most surprised by the fact that most of my friends who had never even printed a “Hello World” on their screen were showing their deep love for Computer Science and blindly going for it. I myself had never tried coding at all. So, I finally decided to have a try before making a decision. I started with some random tutorials on Python and was not very impresses by the limited practice I did there. So, I had a decision in my mind - I’m gonna go for CSE if I get it in the top seven IITs, else I’ll prefer a better college with some other branch.
@@ -31,10 +31,6 @@ I completed all of that and was finally done with all the formalities for the da
 
 The next morning, we woke up at 7 and got ready quickly (I think this is never gonna happen again). We went for the tour and saw the Gymkhana, SAC, Pool, Senior Boys :( Hostels and the Central Library which we liked very much (coz of the infrastructure and not the books or students studying of course). Two dogs chased us on our way back to our hostel and I pledged to always wear sports shoes in the Insti after somehow reaching our hostel safely.
 
-
-
 In the afternoon, our ISMP mentor Unni (he asked us to call him that) took us to visit some important places (like the Lecture Hall Complex, … no I am not interested in listing more of these). We had a normal day after that and slept early again as we had a lecture the next morning i.e. today. We (I and my roommate) woke up in time and got ready well before the lecture time. The lecture was of the course CS101 (Ah! The irony!) We reached the Lecture Hall Complex and attended the lecture. The professor was really enthusiastic and swore (in at least 5 languages) that each one of us will be able to program after this course. Unni again visited us that afternoon and we were asked to learn each other’s names (I’m very bad at this). He also taught us some fun games for passing time until we don’t feel the academic burden.
-
-
 
 I have had dinner, and I am now writing this. Now, when I think about my decision of choosing Mech@IITB, I feel that it is neither right nor wrong at this moment. The decision will become what I make of it, and I pledge to put in my best efforts to turn it into a fruitful one. If my future self will read this a few years from now and smile at this thought, the decision would have turned out right! Oh! It’s 23:46 and I am going to sleep now. I have a lecture at 8:30 tomorrow morning and I don’t want to miss my breakfast! Good Night!
