@@ -3,8 +3,13 @@ layout: post
 title: First post! 
 
 image: /img/covid-19.jpg
-date:  2020-03-25 11:51:00 +05:30
+date:  2020-04-07 11:51:00 +05:30
 ---
+
+This is a blog written by my good friend Gagan Jain.
+Heres the link to his blog:- https://thesmilingsky.github.io/
+I havent written this ; but somehow all of it is so relatable and almost feels like my own story.
+So give it a read, chances are if youre within AIR 500-1000 you will relate more to this.
 
 Hey everyone! Welcome to my first blog post. I do not even know since when was I wishing to have a blog page. I constantly kept writing but all of that was restricted to my Moto E3’s ColorNote. But, now I will start publishing my writings here whenever I feel like doing so. With no further discussions, here’s the post I wrote on the day I had my first class at IIT Bombay. Since I started writing properly after I reached here, this is a long one. You have been warned!
 
